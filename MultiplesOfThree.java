@@ -8,7 +8,7 @@ public class Multiplesofarray {
         int count = 0;
 
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] % 5 == 0) {
+            if (arr[i] % 3 == 0) {
                 count++;
             }
         }
@@ -34,3 +34,4 @@ public class Multiplesofarray {
         printMultiples(arr); // calling method
     }
 }
+
