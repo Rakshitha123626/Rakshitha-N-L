@@ -1,6 +1,6 @@
 package Program;
 
-public class Asc {
+public class PrintingCharacter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,3 +11,4 @@ public class Asc {
 	}
 
 }
+
